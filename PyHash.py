@@ -1,7 +1,5 @@
-# PyHashTool by Saad Hammou
-# This CLI program's purpose is to hash/decrypt (dehash?) strings
-
-
+# PyHash by Saad Hammou
+# This program hashes strings and can decrypt strings it already hashed.
 
 # Importing required modules
 import hashlib
